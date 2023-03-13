@@ -1,2 +1,8 @@
-# DL4AI_Class
-중앙대학교 2023년 1학기 「AI를 위한 딥러닝」 강의를 위한 레포지토리
+# Repository for AI4DL class
+
+Author : 곽수민(Sumin KWAK)
+
+### Folders
+- week[1-16]: Excercise notebooks
+- practice: random practice codes
+- etc: anything interesting
